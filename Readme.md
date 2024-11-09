@@ -7,4 +7,9 @@
 2. Visit your Profile to view your readme file on your profile
 3. Follow the Instructions below to beautify your Readme.md Up to your Likings (Alternatively you can also copy from my readme.md file if you like the layout)
 
+## GitHub Readme Basics:
+Great Resource to Learn more about GitHub README: [GitHub Docs - Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#custom-anchors)
+
+
+
    
